@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/MTproject/static/css/main.af31f313.chunk.css",
+    "main.js": "/MTproject/static/js/main.972e927b.chunk.js",
+    "main.js.map": "/MTproject/static/js/main.972e927b.chunk.js.map",
+    "runtime-main.js": "/MTproject/static/js/runtime-main.2e3ae700.js",
+    "runtime-main.js.map": "/MTproject/static/js/runtime-main.2e3ae700.js.map",
+    "static/js/2.35788c4a.chunk.js": "/MTproject/static/js/2.35788c4a.chunk.js",
+    "static/js/2.35788c4a.chunk.js.map": "/MTproject/static/js/2.35788c4a.chunk.js.map",
+    "index.html": "/MTproject/index.html",
+    "precache-manifest.265e92a824ae426299fa47b9cd5e34d4.js": "/MTproject/precache-manifest.265e92a824ae426299fa47b9cd5e34d4.js",
+    "service-worker.js": "/MTproject/service-worker.js",
+    "static/css/main.af31f313.chunk.css.map": "/MTproject/static/css/main.af31f313.chunk.css.map",
+    "static/js/2.35788c4a.chunk.js.LICENSE.txt": "/MTproject/static/js/2.35788c4a.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/MTproject/static/media/logo.54f68190.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2e3ae700.js",
+    "static/js/2.35788c4a.chunk.js",
+    "static/css/main.af31f313.chunk.css",
+    "static/js/main.972e927b.chunk.js"
+  ]
+}
